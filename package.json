@@ -1,0 +1,13 @@
+{
+  "name": "portofolio-raafi",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Website portofolio Muhammad Raafi Muizz (situs statis tanpa dependensi)",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node serve.mjs",
+    "start": "node serve.mjs"
+  }
+}

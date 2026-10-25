@@ -1,0 +1,72 @@
+{
+  "mountaineer-desktop": {
+    "src": "/img/mountaineer-desktop.webp",
+    "w": 1600,
+    "h": 688
+  },
+  "mountaineer-catalog": {
+    "src": "/img/mountaineer-catalog.webp",
+    "w": 1600,
+    "h": 570
+  },
+  "mountaineer-admin": {
+    "src": "/img/mountaineer-admin.webp",
+    "w": 1600,
+    "h": 612
+  },
+  "mountaineer-mobile": {
+    "src": "/img/mountaineer-mobile.webp",
+    "w": 361,
+    "h": 790
+  },
+  "maryame-desktop": {
+    "src": "/img/maryame-desktop.webp",
+    "w": 1600,
+    "h": 497
+  },
+  "maryame-mobile": {
+    "src": "/img/maryame-mobile.webp",
+    "w": 350,
+    "h": 785
+  },
+  "mountaineer-chat": {
+    "src": "/img/mountaineer-chat.webp",
+    "w": 1600,
+    "h": 803
+  },
+  "uangku-sheet": {
+    "src": "/img/uangku-sheet.webp",
+    "w": 1250,
+    "h": 125
+  },
+  "uangku-telegram": {
+    "src": "/img/uangku-telegram.webp",
+    "w": 760,
+    "h": 890
+  },
+  "mountaineer-n8n": {
+    "src": "/img/mountaineer-n8n.webp",
+    "w": 1120,
+    "h": 580
+  },
+  "3d-crankshaft": {
+    "src": "/img/3d-crankshaft.webp",
+    "w": 660,
+    "h": 640
+  },
+  "3d-bracket": {
+    "src": "/img/3d-bracket.webp",
+    "w": 950,
+    "h": 800
+  },
+  "3d-dieset-1": {
+    "src": "/img/3d-dieset-1.webp",
+    "w": 900,
+    "h": 830
+  },
+  "3d-dieset-2": {
+    "src": "/img/3d-dieset-2.webp",
+    "w": 900,
+    "h": 830
+  }
+}

@@ -5,7 +5,7 @@ export const site = {
   role: 'QA tester dan automation',
   // Isi dengan alamat situs setelah deploy (tanpa garis miring di akhir),
   // contoh: 'https://raafimuizz.vercel.app'. Dipakai untuk pratinjau saat link dibagikan.
-  url: https://muhammadraafi.netlify.app/,
+  url: 'https://muhammadraafi.netlify.app/',
   description:
     'Portofolio Muhammad Raafi Muizz: QA tester yang menguji alur belanja dari ujung ke ujung, membuat automation dengan n8n, dan belajar desain 3D untuk manufaktur dengan SolidWorks.',
   email: 'muham.raafi11@gmail.com',
